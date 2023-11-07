@@ -38,3 +38,23 @@ To get started with the project, please follow the steps below:
       <li>Adjusting the scale and rotation.
         <li>Changing the T-shirt color to your preference.
           <li>Real-time Preferences Saving: Your color preferences are saved in real-time to the backend database. This functionality is powered by WebSockets, allowing seamless communication between the frontend and backend.
+
+## Project Structure
+The project comprises two main components:
+
+<li> Frontend: The frontend is responsible for the user interface and 3D T-shirt customization. It uses the three.js framework to render the 3D model and interacts with the backend to save user preferences.
+
+<li> Backend: The backend handles user authentication and preferences storage. It is connected to a MongoDB database to store user information and color preferences. The backend also utilizes WebSockets to enable real-time updates of user preferences.
+
+## Screenshots
+
+![image](https://github.com/snigdha510/TSHIRT-CUSTOMIZATION/assets/100710845/f822892e-8cdc-4b51-8170-b3c97443b87d)
+![image](https://github.com/snigdha510/TSHIRT-CUSTOMIZATION/assets/100710845/2c9fe8f7-7483-4132-91f4-7a037c7e6596)
+![image](https://github.com/snigdha510/TSHIRT-CUSTOMIZATION/assets/100710845/de37bbd9-2395-4d66-8328-5605d80fc4e4)
+
+## Conclusion
+
+This project showcases a complete solution for the WEBD assignment, combining frontend development, 3D rendering, user authentication, and real-time database interactions. Users can enjoy a personalized 3D T-shirt customization experience while exploring the potential of web development technologies.
+
+Thank you for checking out my project !
+
