@@ -1,5 +1,5 @@
 # UNIKRITI WEBD ASSIGNMENT
-- ![HTML](https://img.shields.io/badge/HTML-5-red) 
+(https://img.shields.io/badge/HTML-5-red) 
 - ![CSS](https://img.shields.io/badge/CSS-3-blue) 
 - ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow) 
 - ![three.js](https://img.shields.io/badge/three.js-WebGL-ff69b4)
