@@ -1,10 +1,10 @@
 # UNIKRITI WEBD ASSIGNMENT
-(https://img.shields.io/badge/HTML-5-red) 
-- ![CSS](https://img.shields.io/badge/CSS-3-blue) 
-- ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow) 
-- ![three.js](https://img.shields.io/badge/three.js-WebGL-ff69b4)
-- ![Node.js](https://img.shields.io/badge/Node.js-v14.17.6-success)
-- ![Express](https://img.shields.io/badge/Express-v4.17.1-success)
+![HTML](https://img.shields.io/badge/HTML-5-red) 
+![CSS](https://img.shields.io/badge/CSS-3-blue) 
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow) 
+![three.js](https://img.shields.io/badge/three.js-WebGL-ff69b4)
+![Node.js](https://img.shields.io/badge/Node.js-v14.17.6-success)
+![Express](https://img.shields.io/badge/Express-v4.17.1-success)
 
 
 ## Introduction
