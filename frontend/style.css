@@ -1,0 +1,134 @@
+/* Reset some default browser styles */
+body, h1, h2, h3, p, ul, li {
+    margin: 0;
+    padding: 0;
+}
+
+/* Set a background color and font for the entire page */
+body {
+    background-color: #f8f8f8; /* Updated background color */
+    font-family: 'Helvetica Neue', sans-serif; /* Updated font family */
+}
+
+/* Header styles */
+header {
+    background-color: #fff;
+    border-bottom: 1px solid #e1e1e1;
+    padding: 20px 0;
+    text-align: center; /* Center the header content */
+}
+
+header h1 {
+    font-family: 'Arial', sans-serif; /* Updated font family */
+    color: #ff5733; /* Updated text color */
+    font-size: 36px; /* Adjust the font size as needed */
+    text-transform: uppercase; /* Optionally make the text uppercase */
+    letter-spacing: 2px; /* Optionally adjust letter spacing */
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3); /* Optionally add a text shadow for better visibility */
+}
+
+#app canvas {
+    max-width: 100%; /* Make sure the canvas doesn't exceed the container width */
+    max-height: 100%; /* Make sure the canvas doesn't exceed the container height */
+}
+
+.header-content {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 20px;
+}
+
+nav ul {
+    list-style: none;
+    display: flex;
+}
+
+nav li {
+    margin-right: 20px;
+}
+
+nav a {
+    text-decoration: none;
+    color: #333;
+    font-weight: bold;
+    font-size: 16px;
+}
+
+/* Main content container */
+main {
+    max-width: 1200px;
+    margin: 0 auto;
+    display: flex;
+    padding: 20px;
+}
+
+/* Left section (3D T-shirt canvas) */
+.left-section {
+    width: 50%;
+    padding: 20px;
+    background-color: #fff; /* Updated background color */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+    display: flex;
+    flex-direction: column;
+    justify-content: center; /* Center vertically */
+    align-items: center; /* Center horizontally */
+    text-align: center; /* Center text */
+    overflow: hidden; /* Hide overflow content */
+    position: relative; /* Set the position to relative */
+}
+
+/* Right section (Product name, description, and color options) */
+.right-section {
+    width: 50%;
+    padding: 20px;
+    background-color: #fff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+}
+
+.right-section h2 {
+    font-family: 'Times New Roman', Times, serif; /* Change the font family to Times New Roman */
+    font-size: 24px; /* Updated font size */
+    color: #333; /* Updated text color */
+    text-transform: uppercase; /* Optionally make the text uppercase */
+    letter-spacing: 1px; /* Optionally adjust letter spacing */
+}
+
+right-section p {
+    font-size: 16px; /* Updated font size */
+    color: #555; /* Updated text color */
+    margin-top: 10px;
+}
+
+.color-options {
+    margin-top: 20px;
+}
+
+/* Style for the color circles in the right section */
+.color-circle {
+    width: 40px; /* Updated size for color circles */
+    height: 40px; /* Updated size for color circles */
+    border-radius: 50%;
+    margin: 5px;
+    cursor: pointer;
+    transition: transform 0.2s ease;
+    border: 2px solid #fff; /* Added white border to differentiate colors */
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2); /* Add shadow for a button-like effect */
+}
+
+/* Style each color circle individually */
+.red {
+    background-color: #ff0000; /* Red color */
+}
+
+.blue {
+    background-color: #007bff; /* Updated blue color */
+}
+
+green {
+    background-color: #28a745; /* Updated green color */
+}
+
+/* Add more color circles as needed */
