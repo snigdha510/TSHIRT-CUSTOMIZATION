@@ -1,4 +1,11 @@
 # UNIKRITI WEBD ASSIGNMENT
+- ![HTML](https://img.shields.io/badge/HTML-5-red) 
+- ![CSS](https://img.shields.io/badge/CSS-3-blue) 
+- ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow) 
+- ![three.js](https://img.shields.io/badge/three.js-WebGL-ff69b4)
+- ![Node.js](https://img.shields.io/badge/Node.js-v14.17.6-success)
+- ![Express](https://img.shields.io/badge/Express-v4.17.1-success)
+
 
 ## Introduction
 Hello, I am Snigdha Parashar, and I'm excited to present my solution for the WEBD (Web Development) assignment. In this assignment, I have developed a comprehensive webpage that features a 3D T-shirt customization tool using the three.js framework. Users can interact with the 3D T-shirt model by adjusting its scale, rotation, and most importantly, changing its color to suit their preferences. I've also integrated a backend system with MongoDB to store and retrieve user color preferences.
@@ -42,9 +49,9 @@ To get started with the project, please follow the steps below:
 ## Project Structure
 The project comprises two main components:
 
-<li> Frontend: The frontend is responsible for the user interface and 3D T-shirt customization. It uses the three.js framework to render the 3D model and interacts with the backend to save user preferences.
+<li> <u>Frontend</u>: The frontend is responsible for the user interface and 3D T-shirt customization. It uses the three.js framework to render the 3D model and interacts with the backend to save user preferences.
 
-<li> Backend: The backend handles user authentication and preferences storage. It is connected to a MongoDB database to store user information and color preferences. The backend also utilizes WebSockets to enable real-time updates of user preferences.
+<li> <u>Backend</u>: The backend handles user authentication and preferences storage. It is connected to a MongoDB database to store user information and color preferences. The backend also utilizes WebSockets to enable real-time updates of user preferences.
 
 ## Screenshots
 
